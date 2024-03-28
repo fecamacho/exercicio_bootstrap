@@ -1,7 +1,25 @@
-time {
-    display: block;
+body {
+    background: rgb(3, 3, 110)
 }
 
-.post {
-    margin-bottom: 24px;
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    
+    }
+
+
+.row {
+        padding: 16px;
+        margin: 16px;
+        max-width: 35%;
+        text-align: center;
+        background-color: rgb(4, 151, 4)
+        
 }
+
+.btn {
+    margin-top: 16px;
+}
+
